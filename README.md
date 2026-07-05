@@ -9,7 +9,7 @@ python greet.py Ada
 # Hello, Ada!
 ```
 
-This is a simple libary with one function, `greet(name)`, that returns a friendly greeting.
+This is a simple library with one function, `greet(name)`, that returns a friendly greeting.
 
 ## Tests
 
